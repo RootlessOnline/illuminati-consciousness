@@ -1,0 +1,26 @@
+{
+  "link_fc35e54f": {
+    "id": "link_fc35e54f",
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/api",
+    "link_type": "api",
+    "description": "Wikipedia API for knowledge retrieval",
+    "sefirot_weights": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "credentials_env": [],
+    "status": "unknown",
+    "last_checked": null,
+    "metadata": {}
+  }
+}

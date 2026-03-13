@@ -1,0 +1,12 @@
+{
+  "problem_decomposition": {
+    "id": "problem_decomposition",
+    "name": "Problem Decomposition",
+    "description": "Break complex problems into simpler steps",
+    "pattern": "identify_components -> analyze_relationships -> create_plan",
+    "complexity": "intermediate",
+    "success_rate": 0.5,
+    "contexts": [],
+    "related_skills": []
+  }
+}

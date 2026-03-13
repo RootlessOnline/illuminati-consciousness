@@ -1,0 +1,13 @@
+{
+  "sefirot_docs": {
+    "id": "sefirot_docs",
+    "name": "Sefirot Design Documents",
+    "description": "Design documents for the Sefirot AI system",
+    "url": "/home/z/my-project/download/",
+    "content_type": "conceptual",
+    "access_method": "api",
+    "update_frequency": "unknown",
+    "reliability": 0.5,
+    "relevance_tags": []
+  }
+}

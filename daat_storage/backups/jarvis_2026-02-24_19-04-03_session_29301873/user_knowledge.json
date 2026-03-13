@@ -1,0 +1,25 @@
+{
+  "communication_style": {
+    "prefers_direct_answers": true,
+    "likes_explanations": true,
+    "detail_level": "medium",
+    "formality": "casual"
+  },
+  "current_needs": [
+    {
+      "description": "Build working AI agent manager",
+      "context": "Sefirot-based consciousness architecture",
+      "priority": "high"
+    },
+    {
+      "description": "Build working AI agent manager",
+      "context": "Sefirot-based consciousness architecture",
+      "priority": "high"
+    }
+  ],
+  "goals": [],
+  "preferences": {},
+  "context": {},
+  "interaction_history": [],
+  "learning_patterns": {}
+}

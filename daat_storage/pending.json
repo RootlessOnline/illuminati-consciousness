@@ -1,0 +1,10 @@
+{
+  "task_001": {
+    "id": "task_001",
+    "description": "Implement agent management system",
+    "priority": "high",
+    "created_at": "2026-02-24 19:04:03.769085",
+    "context": {},
+    "blockers": []
+  }
+}

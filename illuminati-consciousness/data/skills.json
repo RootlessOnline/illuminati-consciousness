@@ -1,0 +1,25 @@
+{
+  "skill_8ce0bda6": {
+    "id": "skill_8ce0bda6",
+    "name": "Active Listening",
+    "description": "Listen and respond empathetically to user concerns",
+    "procedure": "1. Acknowledge 2. Validate 3. Respond",
+    "prerequisites": [],
+    "sefirot_weights": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "mastery_level": 0.0,
+    "practice_count": 0,
+    "created_at": "2026-02-24T20:35:30.620112"
+  }
+}
