@@ -1,0 +1,25 @@
+{
+  "tool_414fbed7": {
+    "id": "tool_414fbed7",
+    "name": "Calculator",
+    "description": "Perform mathematical calculations",
+    "usage_pattern": "calculate(expression)",
+    "sefirot_weights": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "enabled": true,
+    "last_used": null,
+    "use_count": 0,
+    "config": {}
+  }
+}

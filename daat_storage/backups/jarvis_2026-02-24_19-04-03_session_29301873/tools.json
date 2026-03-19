@@ -1,0 +1,12 @@
+{
+  "web_search": {
+    "id": "web_search",
+    "name": "Web Search",
+    "description": "Search the web for current information",
+    "url": "z-ai-web-dev-sdk://web_search",
+    "sefirot_dimension": "chochmah",
+    "usage_count": 0,
+    "last_used": null,
+    "confidence": 0.5
+  }
+}

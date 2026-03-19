@@ -1,0 +1,30 @@
+{
+  "memory_ef31395a": {
+    "id": "memory_ef31395a",
+    "content": "Test user is interested in AI consciousness and the Sefirot system",
+    "data_type": "user_input",
+    "source": "user",
+    "timestamp": "2026-02-24T20:35:30.620131",
+    "sefirot_weights": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ],
+    "embedding": null,
+    "tags": [
+      "ai",
+      "consciousness",
+      "sefirot"
+    ],
+    "importance": 0.8,
+    "access_count": 0
+  }
+}
